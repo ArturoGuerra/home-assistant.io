@@ -18,6 +18,7 @@ ha_platforms:
   - light
   - sensor
   - switch
+  - lock
 ha_integration_type: integration
 ---
 
